@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-colour{
+background-color: #c30047 !important;
+}
+.taxt{
+    color: white !important;
+}
+.display-text{
+    text-align: start !important;
+    margin-bottom: 150px;
+    margin-left: 10px
+    /* justify-content: start; */
+    /* display: flex */
+}
+.display-text-3{
+    text-align: end !important;
+    margin-bottom: 200px;
+    margin-left: 10px
+    /* justify-content: start; */
+    /* display: flex */
+}
+.bg-hot-pink{
+    background-color: #ff627a !important;
+}
+.help-img{
+    background-image: url(images/section-bg2.jpg.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    height: auto;
+}
+.foter-colour{
+    background-color: #301a22;
+}
+.scroll{
+    overflow: scroll;
+    overflow-x: hidden;
+}
+.lists{
+    list-style-type: none;
+    line-height: 40px;
+    
+}
